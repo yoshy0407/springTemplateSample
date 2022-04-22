@@ -1,0 +1,2 @@
+# springTemplateSample
+Spring MVCを使ったテンプレートの検討リポジトリです
